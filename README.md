@@ -14,6 +14,7 @@ author: jianghaolu
      - Deploy to 3 using a publicly available Git repository
      - Deploy to 4 using a GitHub repository with continuous integration
      - Deploy to 5 using web deploy
+     - Deploy to 6 using zip deploy
  
 
 ## Running this Sample ##
