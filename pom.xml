@@ -69,7 +69,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit</artifactId>
-      <version>4.5.7.201904151645-r</version>
+      <version>6.6.1.202309021850-r</version>
     </dependency>
   </dependencies>
 </project>
